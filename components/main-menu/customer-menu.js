@@ -13,8 +13,8 @@ export class CustomerMenu extends HTMLElement{
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
-                            <a class="nav-link active" aria-current="page" href="/registroP.html">Registro</a>
-                            <a class="nav-link" href="#">Features</a>
+                            <a class="nav-link active" aria-current="page" href="/registroP.html">Registro Personal</a>
+                            <a class="nav-link" href="/registroUsuario.html">Registro Usuario</a>
                             <a class="nav-link" href="#">Pricing</a>
                             
                         </div>
