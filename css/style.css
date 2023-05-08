@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo{
+    text-align: center;
+}
+
+#avion{
+    margin-left: 395px;
+    margin-top: 20px;
+
+}
