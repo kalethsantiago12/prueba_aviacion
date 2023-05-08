@@ -2,7 +2,15 @@
     margin: 0;
     padding: 0;
 }
+ 
 
 #titulo{
     text-align: center;
+}
+
+
+#avion{
+    margin-top: 50px !important;
+    margin-left: 800px;
+    display: flex;
 }

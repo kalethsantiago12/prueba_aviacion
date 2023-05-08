@@ -23,6 +23,12 @@ export class CustomerMenu extends HTMLElement{
                     <img  id="logo" src="/img/logoPrincipal-s.png" height="70px" >
                 </div>
             </nav>
+            <br>
+
+          
+
+
+
         `
     }  
     
